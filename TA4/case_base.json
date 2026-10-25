@@ -1,0 +1,74 @@
+[
+    {
+        "problem": {
+            "fever": true,
+            "cough": true,
+            "sore_throat": true,
+            "headache": true,
+            "nausea": false,
+            "rash": false,
+            "shortness_of_breath": false
+        },
+        "solution": "Likely influenza: rest, fluids, and paracetamol."
+    },
+    {
+        "problem": {
+            "fever": false,
+            "cough": true,
+            "sore_throat": false,
+            "headache": false,
+            "nausea": false,
+            "rash": false,
+            "shortness_of_breath": true
+        },
+        "solution": "Possible asthma/respiratory issue: use inhaler if prescribed and seek care."
+    },
+    {
+        "problem": {
+            "fever": false,
+            "cough": false,
+            "sore_throat": false,
+            "headache": false,
+            "nausea": true,
+            "rash": false,
+            "shortness_of_breath": false
+        },
+        "solution": "Likely stomach upset: oral rehydration and bland diet."
+    },
+    {
+        "problem": {
+            "fever": false,
+            "cough": false,
+            "sore_throat": false,
+            "headache": true,
+            "nausea": true,
+            "rash": false,
+            "shortness_of_breath": false
+        },
+        "solution": "Possible migraine: rest in a dark room and take a pain reliever."
+    },
+    {
+        "problem": {
+            "fever": false,
+            "cough": false,
+            "sore_throat": false,
+            "headache": false,
+            "nausea": false,
+            "rash": true,
+            "shortness_of_breath": false
+        },
+        "solution": "Likely allergic reaction: antihistamine and avoid the allergen."
+    },
+    {
+        "problem": {
+            "fever": false,
+            "cough": true,
+            "sore_throat": false,
+            "headache": false,
+            "nausea": false,
+            "rash": false,
+            "shortness_of_breath": false
+        },
+        "solution": "Possible asthma/respiratory issue: use inhaler if prescribed and seek care."
+    }
+]
