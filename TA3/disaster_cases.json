@@ -1,0 +1,106 @@
+[
+    {
+        "case_id": 1,
+        "name": "Typhoon Ursula (2019) - Sample",
+        "disaster_type": "Typhoon",
+        "flood_risk": "High",
+        "area_type": "Coastal",
+        "population": 10000,
+        "solution": {
+            "evacuation": "Evacuate residents in high-risk areas",
+            "resources": "Prepare food, water, and rescue boats",
+            "shelter": 2000
+        }
+    },
+    {
+        "case_id": 2,
+        "name": "Typhoon Odette (2021) - Sample",
+        "disaster_type": "Typhoon",
+        "flood_risk": "Medium",
+        "area_type": "Coastal",
+        "population": 15000,
+        "solution": {
+            "evacuation": "Conduct preemptive evacuation",
+            "resources": "Prepare food, water, and medical supplies",
+            "shelter": 3000
+        }
+    },
+    {
+        "case_id": 3,
+        "name": "Urban Flooding - Sample",
+        "disaster_type": "Flood",
+        "flood_risk": "High",
+        "area_type": "Urban",
+        "population": 8000,
+        "solution": {
+            "evacuation": "Move residents to elevated safe zones",
+            "resources": "Prepare rescue vehicles and medical teams",
+            "shelter": 1600
+        }
+    },
+    {
+        "case_id": 4,
+        "name": "Earthquake Emergency - Sample",
+        "disaster_type": "Earthquake",
+        "flood_risk": "Low",
+        "area_type": "Urban",
+        "population": 12000,
+        "solution": {
+            "evacuation": "Move residents away from unsafe buildings",
+            "resources": "Prepare first aid and rescue teams",
+            "shelter": 2400
+        }
+    },
+    {
+        "case_id": 5,
+        "name": "Rural Flood Emergency - Sample",
+        "disaster_type": "Flood",
+        "flood_risk": "Medium",
+        "area_type": "Rural",
+        "population": 5000,
+        "solution": {
+            "evacuation": "Evacuate residents near rivers",
+            "resources": "Prepare boats, food, and clean water",
+            "shelter": 1000
+        }
+    },
+    {
+        "case_id": 6,
+        "name": "New Landslide Case",
+        "disaster_type": "Landslide",
+        "flood_risk": "High",
+        "area_type": "Mountainous",
+        "population": 30000,
+        "solution": {
+            "evacuation": "Move residents away from unstable slopes and landslide-prone areas. Organize phased evacuations across multiple zones and coordinate transport. Prioritize flood-prone communities and monitor official flood warnings",
+            "resources": "Deploy additional rescue teams, transport, food, drinking water, medical supplies, and emergency personnel; assess road access and isolated communities",
+            "shelter": 6000
+        }
+    },
+    {
+        "case_id": 7,
+        "name": "New Volcanic Eruption Case",
+        "disaster_type": "Volcanic Eruption",
+        "flood_risk": "Low",
+        "area_type": "Rural",
+        "population": 3000,
+        "solution": {
+            "evacuation": "Follow official evacuation orders and move residents away from volcanic hazard zones. Prioritize the most vulnerable residents",
+            "resources": "Prepare essential food, water, first aid, and local emergency personnel; identify remote communities and available transport",
+            "shelter": 600
+        }
+    },
+    {
+        "case_id": 8,
+        "name": "New Typhoon Case",
+        "disaster_type": "Typhoon",
+        "flood_risk": "Medium",
+        "area_type": "Urban",
+        "population": 20000,
+        "solution": {
+            "evacuation": "Prepare evacuation routes and move residents away from typhoon and flooding danger zones. Organize phased evacuations across multiple zones and coordinate transport",
+            "resources": "Deploy additional rescue teams, transport, food, drinking water, medical supplies, and emergency personnel; coordinate traffic control and accessible routes",
+            "shelter": 4000
+        }
+    }
+]
